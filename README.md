@@ -14,13 +14,11 @@ The goal is to complete ten words in the shortest time possible.
 ### Installation
 
 - Clone the repository to your local machine:
-    '''bash
     git clone https://github.com/yourusername/colour-chaos-game.git
 - Make sure you have Python and Pygame installed.
 
 ### How to Play
 - Run the game:
-    '''bash
     cd colour-chaos-game
     python colour_chaos.py-
 - Press the SPACE key to start the game.
