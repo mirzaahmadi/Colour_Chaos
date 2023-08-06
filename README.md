@@ -1,4 +1,4 @@
-# Colour_Chaos
+# Colour Chaos!
 Personal Python project, July 2023
 ### Video Demo: <https://www.youtube.com/watch?v=Jlng-zi-mgk&t=9s>
 
